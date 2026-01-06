@@ -11,3 +11,4 @@ venv/
 *.pot
 *.mo
 *.swp
+.venv/
