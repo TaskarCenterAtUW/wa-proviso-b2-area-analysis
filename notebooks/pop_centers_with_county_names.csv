@@ -1,459 +1,459 @@
-County,PlaceName,OBJECTID
-Grays Harbor,Aberdeen Gardens CDP,2
-Whatcom,Acme CDP,3
-Stevens,Addy CDP,4
-Stevens,Addy UGA,5
-Yakima,Ahtanum CDP,6
-Spokane,Airway Heights UGA,8
-Pierce,Alder CDP,10
-Pierce,Alderton CDP,11
-Skagit,Alger CDP,13
-Mason,Allyn CDP,15
-Mason,Allyn UGA,16
-Wahkiakum,Altoona CDP,18
-Grays Harbor,Amanda Park CDP,19
-Clark,Amboy CDP,20
-King,Ames Lake CDP,21
-Skagit,Anacortes UGA,23
-Asotin,Anatone CDP,24
-Pierce,Anderson Island CDP,25
-Snohomish,Arlington Heights CDP,27
-Pierce,Artondale CDP,29
-Pierce,Ashford CDP,30
-Walla Walla,Attalia Industrial UGA,32
-Kitsap,Bangor Base CDP,35
-Grant,Banks Lake South CDP,36
-King,Baring CDP,38
-Ferry,Barney's Junction CDP,39
-Ferry,Barstow CDP,40
-Franklin,Basin City CDP,41
-Pacific,Bay Center CDP,43
-Skagit,Bay View CDP,44
-Skagit,Bayview Ridge UGA,45
-Mason,Belfair CDP,48
-Mason,Belfair UGA,49
-Clallam,Bell Hill CDP,50
-Whatcom,Bellingham UGA,54
-Benton,Benton City UGA,56
-Grant,Beverly CDP,58
-Klickitat,Bickleton CDP,59
-Skagit,Big Lake CDP,60
-Whatcom,Birch Bay CDP,62
-King,Black Diamond UGA,64
-Whatcom,Blaine UGA,66
-Clallam,Blyn CDP,67
-Pierce,Bonney Lake UGA,69
-Skagit,Bow CDP,74
-Ferry,Boyds CDP,75
-Grays Harbor,Brady CDP,76
-Kitsap,Bremerton UGA,78
-Okanogan,Brewster UGA,80
-Douglas,Bridgeport UGA,82
-Jefferson,Brinnon CDP,84
-Pierce,Browns Point CDP,85
-Clark,Brush Prairie CDP,86
-Snohomish,Bryant CDP,87
-Yakima,Buena CDP,91
-Walla Walla,Burbank CDP,93
-Walla Walla,Burbank UGA,94
-Kitsap,Burley CDP,96
-Skagit,Burlington UGA,98
-Island,Camano CDP,99
-Snohomish,Canyon Creek CDP,103
-Lewis,Cardinal Glass UGA,105
-Clallam,Carlsborg CDP,106
-King,Carnation UGA,109
-Skamania,Carson CDP,110
-Grant,Cascade Valley CDP,111
-Chelan,Cashmere UGA,112
-Klickitat,Centerville CDP,118
-Grays Harbor,Central Park CDP,120
-Lewis,Centralia UGA,122
-Snohomish,Chain Lake CDP,123
-Lewis,Chehalis UGA,125
-Chelan,Chelan Falls CDP,127
-Chelan,Chelan UGA,128
-Spokane,Cheney UGA,130
-Whatcom,Cherry Point UGA,132
-Stevens,Chewelah UGA,134
-Kitsap,Chico CDP,135
-Pacific,Chinook CDP,136
-Clallam,Clallam Bay CDP,137
-Clallam,Clallam Bay UGA,138
-Asotin,Clarkston Heights-Vineland CDP,140
-Stevens,Clayton CDP,141
-Stevens,Clayton UGA,142
-Kittitas,Cle Elum,143
-Kittitas,Cle Elum UGA,144
-Pierce,Clear Lake CDP,145
-Yakima,Cliffdell CDP,147
-Island,Clinton CDP,148
-Whatcom,Columbia Valley UGA,156
-Stevens,Colville UGA,158
-Skagit,Concrete UGA,161
-Franklin,Connell UGA,163
-Skagit,Conway CDP,164
-Grays Harbor,Copalis Beach CDP,165
-King,Cottage Lake CDP,167
-Cowlitz,Cougar CDP,168
-Grant,Coulee City UGA,170
-Spokane,Country Homes CDP,173
-Yakima,Cowiche CDP,177
-Grant,Crescent Bar CDP,178
-Pierce,Crocker CDP,180
-Ferry,Curlew CDP,181
-Ferry,Curlew Lake CDP,182
-Pend Oreille,Cusick UGA,184
-Whatcom,Custer CDP,185
-Klickitat,Dallesport CDP,186
-Ferry,Danville CDP,187
-Snohomish,Darrington UGA,189
-Columbia,Dayton UGA,193
-Wahkiakum,Deep River CDP,194
-Spokane,Deer Park UGA,196
-Whatcom,Deming CDP,197
-Grant,Desert Aire CDP,199
-Okanogan,Disautel CDP,200
-Walla Walla,Dixie CDP,201
-Clark,Dollars Corner CDP,202
-Yakima,Donald CDP,203
-Clark,Duluth CDP,204
-Pierce,DuPont,205
-King,Duvall UGA,207
-Wahkiakum,East Cathlamet CDP,208
-King,East Renton Highlands CDP,210
-Douglas,East Wenatchee UGA,212
-Snohomish,Eastmont CDP,213
-Kittitas,Easton CDP,214
-San Juan,Eastsound UGA,215
-Pierce,Eatonville UGA,217
-Skagit,Edison CDP,219
-Pierce,Elbe CDP,221
-Grant,Electric City UGA,223
-Pierce,Elk Plain CDP,224
-Kittitas,Ellensburg,225
-Kittitas,Ellensburg UGA,226
-King,Enumclaw UGA,235
-Grant,Ephrata UGA,237
-Yakima,Eschbach CDP,239
-Snohomish,Everett UGA,242
-Whatcom,Everson UGA,244
-Spokane,Fairchild AFB CDP,245
-Spokane,Fairfield UGA,247
-King,Fairwood CDP,248
-King,Fall City CDP,249
-King,Federal Way,251
-Clark,Fern Prairie CDP,253
-Whatcom,Ferndale UGA,255
-Pierce,Fife Heights CDP,257
-Benton,Finley CDP,258
-Snohomish,Fobes Hill CDP,261
-Clallam,Forks UGA,263
-Pierce,Fort Lewis CDP,264
-Spokane,Four Lakes CDP,265
-Pierce,Fox Island CDP,266
-Pierce,Frederickson CDP,267
-Island,Freeland CDP,268
-Island,Freeland UGA,269
-Walla Walla,Garrett CDP,272
-Whatcom,Geneva CDP,273
-Grant,George UGA,275
-Whatcom,Glacier CDP,278
-Yakima,Gleed CDP,279
-Klickitat,Glenwood CDP,280
-Pierce,Graham CDP,286
-Grant,Grand Coulee UGA,288
-Thurston,Grand Mound CDP,289
-Thurston,Grandmound UGA,290
-Yakima,Grandview UGA,292
-Yakima,Granger UGA,294
-Snohomish,Granite Falls UGA,296
-Mason,Grapeview CDP,297
-Grays Harbor,Grayland CDP,298
-Wahkiakum,Grays River CDP,299
-Spokane,Green Bluff CDP,300
-Pierce,Greenwater CDP,301
-Skagit,Hamilton UGA,303
-Kitsap,Hansville CDP,304
-Snohomish,Hat Island CDP,309
-Pierce,Herron Island CDP,312
-Snohomish,High Bridge CDP,313
-King,Hobart CDP,314
-Clark,Hockinson CDP,315
-Grays Harbor,Hogans Corner CDP,316
-Pierce,Home CDP,317
-Mason,Hoodsport CDP,318
-Grays Harbor,Hoquiam UGA,320
-Grays Harbor,Humptulips CDP,321
-Stevens,Hunters UGA,322
-Pacific,Ilwaco UGA,326
-Ferry,Inchelium CDP,327
-Lewis,Industrial Park of TransAlta UGA,331
-Pend Oreille,Ione UGA,333
-Clallam,Jamestown CDP,336
-Clallam,Joyce UGA,338
-Franklin,Kahlotus UGA,340
-Pierce,Kapowsin CDP,342
-Ferry,Keller CDP,344
-Whatcom,Kendall CDP,347
-Benton,Kennewick UGA,350
-Pierce,Ketron Island CDP,353
-Stevens,Kettle Falls UGA,355
-Pierce,Key Center CDP,356
-King,King County UGA,358
-Kitsap,Kingston CDP,359
-Kittitas,Kittitas UGA,364
-Klickitat,Klickitat CDP,365
-Clark,La Center UGA,368
-Pierce,La Grande CDP,371
-Thurston,Lacey UGA,373
-Snohomish,Lake Bosworth CDP,375
-Snohomish,Lake Cassidy CDP,376
-Skagit,Lake Cavanaugh CDP,377
-Snohomish,Lake Goodwin CDP,380
-King,Lake Holm CDP,381
-Snohomish,Lake Ketchum CDP,382
-Skagit,Lake McMurray CDP,384
-King,Lake Morton-Berrydale CDP,385
-Snohomish,Lake Roesiger CDP,386
-Stevens,Lake Spokane UGA,388
-Pierce,Lake Tapps CDP,392
-King,Lakeland South CDP,394
-Grant,Lakeview CDP,395
-Pierce,Lakewood,396
-Pierce,Lakewood UGA,397
-Island,Langley UGA,400
-Ferry,Laurier CDP,404
-Pacific,Lebam CDP,405
-Chelan,Levenworth UGA,406
-Spokane,Liberty Lake UGA,410
-Snohomish,Lochsloy CDP,412
-Kitsap,Lofall CDP,413
-Pacific,Long Beach UGA,415
-Pierce,Longbranch CDP,416
-Okanogan,Loomis CDP,420
-Stevens,Loon Lake CDP,421
-San Juan,Lopez UGA,422
-Wahkiakum,Lower Elochoman CDP,423
-Klickitat,Lyle CDP,424
-Whatcom,Lynden UGA,427
-Yakima,Mabton UGA,430
-Snohomish,Machias CDP,431
-Ferry,Malo CDP,433
-Grays Harbor,Malone CDP,434
-Okanogan,Malott CDP,435
-Snohomish,Maltby CDP,436
-Douglas,Mansfield UGA,439
-Chelan,Manson CDP,440
-Chelan,Manson UGA,441
-Whatcom,Maple Falls CDP,442
-King,Maple Heights-Lake Desire CDP,443
-Pierce,Maplewood CDP,445
-Skagit,Marblemount CDP,446
-Stevens,Marcus,447
-Stevens,Marcus UGA,448
-Whatcom,Marietta-Alderwood CDP,449
-Grant,Marine View CDP,450
-Grays Harbor,Markham CDP,451
-Jefferson,Marrowstone CDP,452
-Klickitat,Maryhill CDP,454
-Grant,Mattawa UGA,458
-Snohomish,May Creek CDP,459
-Pierce,McChord AFB CDP,460
-Pierce,McKenna CDP,462
-Spokane,Mead CDP,464
-Spokane,Medical Lake UGA,468
-Franklin,Mesa UGA,473
-Pend Oreille,Metaline Falls UGA,476
-Okanogan,Methow CDP,477
-Spokane,Millwood,482
-Lewis,Mineral CDP,485
-King,Mirrormont CDP,487
-Grays Harbor,Moclips CDP,488
-Snohomish,Monroe North CDP,490
-Lewis,Morton UGA,495
-Grant,Moses Lake North CDP,497
-Grant,Moses Lake UGA,498
-Lewis,Mossyrock UGA,500
-Yakima,Moxee UGA,506
-Yakima,Naches UGA,510
-Lewis,Napavine UGA,512
-Pacific,Naselle CDP,513
-Clallam,Neah Bay CDP,515
-Grays Harbor,Neilton CDP,516
-Okanogan,Nespelem Community CDP,518
-King,Newcastle,519
-Pend Oreille,Newport UGA,521
-Yakima,Nile CDP,522
-Thurston,Nisqually Indian Community CDP,523
-Okanogan,North Omak CDP,532
-Pierce,North Puyallup CDP,533
-Snohomish,North Sultan CDP,534
-Snohomish,Northwest Stanwood CDP,537
-Island,Oak Harbor UGA,538
-Grays Harbor,Ocean City CDP,541
-Grays Harbor,Ocosta CDP,545
-Thurston,Olympia UGA,549
-Lewis,Onalaska CDP,552
-Ferry,Orient CDP,554
-Snohomish,Oso CDP,557
-Spokane,Otis Orchards-East Farms CDP,558
-Yakima,Outlook CDP,559
-Grays Harbor,Oyehut CDP,560
-Grays Harbor,Pacific Beach CDP,562
-Lewis,Packwood CDP,564
-Douglas,Pangborn Industrial Service Boundary,566
-Yakima,Parker CDP,567
-Franklin,Pasco,570
-Franklin,Pasco UGA,571
-Whatcom,Peaceful Valley CDP,576
-Chelan,Peshastin UGA,577
-Ferry,Pine Grove CDP,580
-Whatcom,Point Roberts CDP,581
-Garfield,Pomeroy UGA,583
-Clallam,Port Angeles East CDP,585
-Clallam,Port Angeles UGA,586
-Kitsap,Port Gamble Tribal Community CDP,587
-Jefferson,Port Hadlock-Irondale CDP,588
-Jefferson,Port Ludlow CDP,589
-Kitsap,Port Orchard UGA,591
-Grays Harbor,Porter CDP,593
-Kitsap,Poulsbo UGA,595
-Pierce,Prairie Heights CDP,596
-Pierce,Prairie Ridge CDP,597
-Walla Walla,Prescott UGA,599
-Benton,Prosser UGA,601
-Wahkiakum,Puget Island CDP,602
-Pierce,Purdy CDP,604
-Pierce,Puyallup UGA,606
-Grays Harbor,Queets CDP,607
-Grays Harbor,Qui-nai-elt Village CDP,608
-Jefferson,Quilcene CDP,609
-Grant,Quincy UGA,611
-Pierce,Raft Island CDP,612
-Thurston,Ranier UGA,614
-King,Ravensdale CDP,615
-Pacific,Raymond UGA,617
-Benton,Richland UGA,626
-Clark,Ridgefield UGA,627
-King,Riverbend CDP,631
-King,Riverpoint CDP,632
-San Juan,Roche Harbor CDP,634
-Thurston,Rochester CDP,635
-Douglas,Rock Island UGA,637
-Spokane,Rockford UGA,639
-Skagit,Rockport CDP,640
-Kittitas,Ronald CDP,642
-Klickitat,Roosevelt CDP,643
-Wahkiakum,Rosburg CDP,645
-Pierce,Rosedale CDP,646
-Kittitas,Roslyn,647
-Pierce,Roy UGA,650
-Grant,Royal City UGA,652
-Pierce,Ruston,653
-Cowlitz,Ryderwood CDP,654
-Grays Harbor,Santiago CDP,658
-Grays Harbor,Satsop CDP,659
-Grant,Schwana CDP,660
-Kitsap,Seabeck CDP,661
-Pacific,Seaview UGA,665
-Skagit,Sedro-Woolley UGA,666
-Yakima,Selah UGA,669
-Clallam,Sequim UGA,671
-King,Shadow Lake CDP,672
-Mason,Shelton UGA,674
-Snohomish,Silvana CDP,676
-Kitsap,Silverdale CDP,678
-Kitsap,Silverdale UGA,679
-Snohomish,Sisco Heights CDP,680
-Wahkiakum,Skamokawa Valley CDP,681
-Mason,Skokomish CDP,682
-Snohomish,Snohomish UGA,686
-Kittitas,Snoqualmie Pass CDP,688
-King,Snoqualmie UGA,689
-Grant,Soap Lake UGA,691
-Pacific,South Bend UGA,693
-Kittitas,South Cle Elum,694
-Kittitas,South Cle Elum UGA,695
-Pierce,South Creek CDP,696
-Pierce,South Hill CDP,697
-Kitsap,South Kitsap UGA,698
-Chelan,South Wenatchee CDP,700
-Kitsap,Southworth CDP,701
-Pierce,Spanaway CDP,702
-Spokane,Spangle UGA,704
-Spokane,Spokane UGA,706
-Spokane,Spokane Valley UGA,708
-Pierce,Stansberry Lake CDP,712
-Snohomish,Stanwood,714
-Snohomish,Stanwood,714
-Snohomish,Stanwood UGA,715
-Snohomish,Startup CDP,718
-Whitman,Steptoe CDP,720
-Whatcom,Sudden Valley CDP,723
-Pierce,Summit CDP,728
-Pierce,Summit View CDP,729
-Yakima,Summitview CDP,730
-Stevens,Suncrest CDP,733
-Snohomish,Sunday Lake CDP,734
-Grant,Sunland Estates CDP,735
-Yakima,Sunnyside UGA,736
-Chelan,Sunnyslope CDP,737
-Kitsap,Suquamish CDP,738
-Snohomish,Swede Heaven CDP,739
-Skagit,Swinomish UGA,740
-Grays Harbor,Taholah CDP,743
-Yakima,Tampico CDP,744
-Pierce,Tehaleh CDP,746
-Yakima,Terrace Heights CDP,750
-Kittitas,Thorp CDP,751
-Snohomish,Three Lakes CDP,752
-Yakima,Tieton UGA,754
-Pacific,Tokeland CDP,755
-Lewis,Toledo,756
-Lewis,Toledo UGA,757
-Yakima,Toppenish UGA,760
-Ferry,Torboy CDP,761
-Walla Walla,Touchet CDP,762
-Spokane,Town and Country CDP,763
-Klickitat,Trout Lake CDP,765
-Thurston,Tumwater,768
-Thurston,Tumwater UGA,769
-Ferry,Twin Lakes CDP,770
-Mason,Union CDP,772
-Yakima,Union Gap UGA,774
-King,Union Hill-Novelty Hill CDP,775
-Wahkiakum,Upper Elochoman CDP,778
-Lewis,Vader UGA,779
-Stevens,Valley CDP,780
-Stevens,Valley UGA,781
-Clark,Vancouver UGA,782
-Kittitas,Vantage CDP,783
-King,Vashon CDP,784
-Pierce,Vaughn CDP,785
-Clark,Venersborg CDP,786
-Snohomish,Verlot CDP,787
-Walla Walla,Waitsburg UGA,789
-Walla Walla,Walla Walla East CDP,791
-Walla Walla,Walla Walla UGA,792
-Yakima,Wapato UGA,796
-Grant,Warden UGA,798
-Snohomish,Warm Beach CDP,799
-Clark,Washougal UGA,801
-Douglas,Waterville UGA,804
-Chelan,Wenatchee UGA,808
-Asotin,West Clarkston-Highland CDP,809
-Benton,West Richland UGA,811
-Grant,Wheeler CDP,813
-Island,Whidbey Island Station CDP,814
-Yakima,White Swan CDP,817
-King,Wilderness Rim CDP,819
-Pacific,Willapa CDP,821
-Klickitat,Wishram CDP,826
-Pierce,Wollochet CDP,827
-Clark,Woodland UGA,830
-Snohomish,Woods Creek CDP,831
-Yakima,Yakima UGA,836
-King,Yarrow Point,837
-Thurston,Yelm UGA,840
-Yakima,Zillah UGA,842
+County,PlaceName,OBJECTID,area_diff_sq_km,covers_osm_count
+Grays Harbor,Aberdeen Gardens CDP,2,4.210018470959016,1.0
+Whatcom,Acme CDP,3,3.882191758185393,1.0
+Stevens,Addy CDP,4,0.6255822994840636,
+Stevens,Addy UGA,5,2.103468475149296,
+Yakima,Ahtanum CDP,6,2.08558589460986,
+Spokane,Airway Heights UGA,8,2.025919481829842,
+Pierce,Alder CDP,10,8.32221284497532,2.0
+Pierce,Alderton CDP,11,0.3709137677675436,
+Skagit,Alger CDP,13,6.758323986943781,1.0
+Mason,Allyn CDP,15,3.9480116742982005,
+Mason,Allyn UGA,16,0.40609996903003437,
+Wahkiakum,Altoona CDP,18,12.156765732101544,4.0
+Grays Harbor,Amanda Park CDP,19,20.96999286677253,
+Clark,Amboy CDP,20,25.875186436829047,3.0
+King,Ames Lake CDP,21,4.455532711722169,1.0
+Skagit,Anacortes UGA,23,9.026070500842874,
+Asotin,Anatone CDP,24,0.312656373634818,1.0
+Pierce,Anderson Island CDP,25,20.487383633779377,2.0
+Snohomish,Arlington Heights CDP,27,21.09272857732069,1.0
+Pierce,Artondale CDP,29,1.143536350098877,1.0
+Pierce,Ashford CDP,30,6.408596823068487,1.0
+Walla Walla,Attalia Industrial UGA,32,24.749891097680027,
+Kitsap,Bangor Base CDP,35,2.6496945925748285,
+Grant,Banks Lake South CDP,36,6.291815279268998,2.0
+King,Baring CDP,38,2.7302046326889764,1.0
+Ferry,Barney's Junction CDP,39,0.675552372880263,1.0
+Ferry,Barstow CDP,40,1.3282752586720852,1.0
+Franklin,Basin City CDP,41,8.271581918488135,1.0
+Pacific,Bay Center CDP,43,1.996971829289563,2.0
+Skagit,Bay View CDP,44,6.721714357652935,
+Skagit,Bayview Ridge UGA,45,14.500107244614243,
+Mason,Belfair CDP,48,17.718596102041438,
+Mason,Belfair UGA,49,2.8337199927476218,
+Clallam,Bell Hill CDP,50,4.1840906437537715,2.0
+Whatcom,Bellingham UGA,54,1.342660297724942,
+Benton,Benton City UGA,56,1.4243146194154979,
+Grant,Beverly CDP,58,0.4859846621364123,1.0
+Klickitat,Bickleton CDP,59,12.136225052985408,1.0
+Skagit,Big Lake CDP,60,15.599959876257996,2.0
+Whatcom,Birch Bay CDP,62,18.46182049475217,1.0
+King,Black Diamond UGA,64,0.5889704665289955,
+Whatcom,Blaine UGA,66,1.95840713540467,
+Clallam,Blyn CDP,67,11.419077627419478,
+Pierce,Bonney Lake UGA,69,0.9523444464334089,
+Skagit,Bow CDP,74,3.0206068439040985,2.0
+Ferry,Boyds CDP,75,0.5051119016033934,1.0
+Grays Harbor,Brady CDP,76,14.455176455581304,
+Kitsap,Bremerton UGA,78,1.7567860389967833,
+Okanogan,Brewster UGA,80,0.0865076508798528,
+Douglas,Bridgeport UGA,82,1.842820399268239,
+Jefferson,Brinnon CDP,84,22.40344006795462,4.0
+Pierce,Browns Point CDP,85,0.26674473579289126,1.0
+Clark,Brush Prairie CDP,86,11.596664743670354,
+Snohomish,Bryant CDP,87,15.924719985570954,1.0
+Yakima,Buena CDP,91,2.248808171604126,1.0
+Walla Walla,Burbank CDP,93,20.351806343108013,2.0
+Walla Walla,Burbank UGA,94,0.25921743228108635,
+Kitsap,Burley CDP,96,5.861542284480758,
+Skagit,Burlington UGA,98,1.20500591203118,
+Island,Camano CDP,99,75.83084952004413,8.0
+Snohomish,Canyon Creek CDP,103,15.747768887597637,2.0
+Lewis,Cardinal Glass UGA,105,0.42377753568461246,
+Clallam,Carlsborg CDP,106,0.4197594480922242,
+King,Carnation UGA,109,0.6818936927233656,
+Skamania,Carson CDP,110,1.932469439619787,
+Grant,Cascade Valley CDP,111,0.5342911563267378,
+Chelan,Cashmere UGA,112,0.8131726481480197,
+Klickitat,Centerville CDP,118,8.590136926838955,1.0
+Grays Harbor,Central Park CDP,120,7.573653742302007,
+Lewis,Centralia UGA,122,7.886154717276983,
+Snohomish,Chain Lake CDP,123,25.933355927970076,1.0
+Lewis,Chehalis UGA,125,9.84334740415656,
+Chelan,Chelan Falls CDP,127,0.7234335315300755,1.0
+Chelan,Chelan UGA,128,5.906165148415557,
+Spokane,Cheney UGA,130,2.4629521014536992,
+Whatcom,Cherry Point UGA,132,21.747037576805266,
+Stevens,Chewelah UGA,134,0.6062152444301436,
+Kitsap,Chico CDP,135,1.9397780845201558,
+Pacific,Chinook CDP,136,2.3298219383218672,
+Clallam,Clallam Bay CDP,137,0.9562333412883376,
+Clallam,Clallam Bay UGA,138,3.815575429375836,
+Asotin,Clarkston Heights-Vineland CDP,140,27.04304017232088,
+Stevens,Clayton CDP,141,3.3510133604509087,1.0
+Stevens,Clayton UGA,142,0.30952635915609794,
+Kittitas,Cle Elum,143,10.597664912254729,2.0
+Kittitas,Cle Elum UGA,144,3.3219077257214287,
+Pierce,Clear Lake CDP,145,31.95900172915852,2.0
+Yakima,Cliffdell CDP,147,4.550676885565271,2.0
+Island,Clinton CDP,148,1.8978167038075864,1.0
+Whatcom,Columbia Valley UGA,156,0.312358728947274,
+Stevens,Colville UGA,158,3.5631267386990455,
+Skagit,Concrete UGA,161,0.7585277660766465,
+Franklin,Connell UGA,163,11.008636608300893,
+Skagit,Conway CDP,164,0.5808365259423632,1.0
+Grays Harbor,Copalis Beach CDP,165,8.128768049750398,
+King,Cottage Lake CDP,167,1.014416880036464,
+Cowlitz,Cougar CDP,168,1.4971502930522382,1.0
+Grant,Coulee City UGA,170,0.32600071493678884,
+Spokane,Country Homes CDP,173,3.7020930516430415,1.0
+Yakima,Cowiche CDP,177,2.149916629203563,2.0
+Grant,Crescent Bar CDP,178,2.563239074278267,1.0
+Pierce,Crocker CDP,180,18.444971705459647,1.0
+Ferry,Curlew CDP,181,1.9025847840579124,1.0
+Ferry,Curlew Lake CDP,182,6.5076939096476805,
+Pend Oreille,Cusick UGA,184,2.150139952936642,
+Whatcom,Custer CDP,185,5.7887858194123565,1.0
+Klickitat,Dallesport CDP,186,16.676565948005553,1.0
+Ferry,Danville CDP,187,0.4255982622058274,1.0
+Snohomish,Darrington UGA,189,2.2768561971378136,
+Columbia,Dayton UGA,193,2.2601017769501404,
+Wahkiakum,Deep River CDP,194,34.16889582401196,2.0
+Spokane,Deer Park UGA,196,2.8878418688776737,
+Whatcom,Deming CDP,197,5.71938288104103,1.0
+Grant,Desert Aire CDP,199,8.69628607318835,1.0
+Okanogan,Disautel CDP,200,10.161657816302622,1.0
+Walla Walla,Dixie CDP,201,1.2940128613012858,
+Clark,Dollars Corner CDP,202,5.1044434974581145,
+Yakima,Donald CDP,203,2.7639188394547247,1.0
+Clark,Duluth CDP,204,13.31139759362637,
+Pierce,DuPont,205,0.25733190175395926,
+King,Duvall UGA,207,1.1092139391118214,
+Wahkiakum,East Cathlamet CDP,208,3.5217837790801774,
+King,East Renton Highlands CDP,210,0.2582440004446731,
+Douglas,East Wenatchee UGA,212,8.661483060111042,
+Snohomish,Eastmont CDP,213,0.29550422769145435,
+Kittitas,Easton CDP,214,8.205095715114792,1.0
+San Juan,Eastsound UGA,215,3.0064087796938113,
+Pierce,Eatonville UGA,217,3.5143487513995537,
+Skagit,Edison CDP,219,3.274828509534032,1.0
+Pierce,Elbe CDP,221,0.1699090791264813,1.0
+Grant,Electric City UGA,223,0.6756125627395013,
+Pierce,Elk Plain CDP,224,1.7323834877104787,1.0
+Kittitas,Ellensburg,225,0.4577357653245855,
+Kittitas,Ellensburg UGA,226,8.466307252513875,
+King,Enumclaw UGA,235,2.2288391888718158,
+Grant,Ephrata UGA,237,2.24916009454318,
+Yakima,Eschbach CDP,239,3.1040926499482704,
+Snohomish,Everett UGA,242,0.6277282975786234,
+Whatcom,Everson UGA,244,1.133780078583452,
+Spokane,Fairchild AFB CDP,245,16.398259629742448,
+Spokane,Fairfield UGA,247,0.46734167579028174,
+King,Fairwood CDP,248,4.451254495152096,1.0
+King,Fall City CDP,249,6.974363636361013,
+King,Federal Way,251,0.49902129214920876,
+Clark,Fern Prairie CDP,253,6.227649571894246,1.0
+Whatcom,Ferndale UGA,255,1.1028644684337174,
+Pierce,Fife Heights CDP,257,0.26528764937093907,
+Benton,Finley CDP,258,29.987173222144875,2.0
+Snohomish,Fobes Hill CDP,261,4.275153098739357,
+Clallam,Forks UGA,263,9.114287759050175,
+Pierce,Fort Lewis CDP,264,8.904329640684612,
+Spokane,Four Lakes CDP,265,7.893171416587327,
+Pierce,Fox Island CDP,266,0.9351342800896454,
+Pierce,Frederickson CDP,267,0.2695558637097015,
+Island,Freeland CDP,268,8.566430551834522,
+Island,Freeland UGA,269,3.58557302338619,
+Walla Walla,Garrett CDP,272,6.696286344840533,1.0
+Whatcom,Geneva CDP,273,0.768555595479969,
+Grant,George UGA,275,1.795199867368,
+Whatcom,Glacier CDP,278,4.334782583531813,1.0
+Yakima,Gleed CDP,279,7.424448418256235,1.0
+Klickitat,Glenwood CDP,280,2.4227353768010182,1.0
+Pierce,Graham CDP,286,69.71867792207314,5.0
+Grant,Grand Coulee UGA,288,3.2482891562863774,
+Thurston,Grand Mound CDP,289,10.54080455369182,1.0
+Thurston,Grandmound UGA,290,0.31797224297351595,
+Yakima,Grandview UGA,292,5.47683959137981,
+Yakima,Granger UGA,294,1.162800612729443,
+Snohomish,Granite Falls UGA,296,0.5811555522002387,
+Mason,Grapeview CDP,297,9.050106698839855,3.0
+Grays Harbor,Grayland CDP,298,17.1161289593101,1.0
+Wahkiakum,Grays River CDP,299,51.731704862903186,
+Spokane,Green Bluff CDP,300,18.383464080802618,1.0
+Pierce,Greenwater CDP,301,3.7564513342357118,
+Skagit,Hamilton UGA,303,0.6199912666253818,
+Kitsap,Hansville CDP,304,26.164050235892773,2.0
+Snohomish,Hat Island CDP,309,1.7150473804606308,
+Pierce,Herron Island CDP,312,1.0774338144117486,
+Snohomish,High Bridge CDP,313,17.99028316759913,2.0
+King,Hobart CDP,314,47.63655811857384,8.0
+Clark,Hockinson CDP,315,33.05151721788756,
+Grays Harbor,Hogans Corner CDP,316,0.6380270161302795,
+Pierce,Home CDP,317,16.01195640825262,3.0
+Mason,Hoodsport CDP,318,2.438452095168499,
+Grays Harbor,Hoquiam UGA,320,0.00024386742040238203,
+Grays Harbor,Humptulips CDP,321,23.93198458552594,
+Stevens,Hunters UGA,322,0.3157533394365271,
+Pacific,Ilwaco UGA,326,2.4501211312205275,
+Ferry,Inchelium CDP,327,68.69139213351691,2.0
+Lewis,Industrial Park of TransAlta UGA,331,17.87393059565481,
+Pend Oreille,Ione UGA,333,2.161367752174745,
+Clallam,Jamestown CDP,336,1.5020029248031868,1.0
+Clallam,Joyce UGA,338,0.8691699557575718,
+Franklin,Kahlotus UGA,340,2.836675261570665,
+Pierce,Kapowsin CDP,342,11.272228372952377,2.0
+Ferry,Keller CDP,344,24.527002251001097,1.0
+Whatcom,Kendall CDP,347,6.028130085715028,
+Benton,Kennewick UGA,350,1.909163371877505,
+Pierce,Ketron Island CDP,353,0.7189891180955881,
+Stevens,Kettle Falls UGA,355,1.5491520081171748,
+Pierce,Key Center CDP,356,37.141465213697785,3.0
+King,King County UGA,358,0.8650678449421552,
+Kitsap,Kingston CDP,359,4.021269890944428,
+Kittitas,Kittitas UGA,364,1.4987244821056798,
+Klickitat,Klickitat CDP,365,2.372977323914523,1.0
+Clark,La Center UGA,368,0.40109765219370863,
+Pierce,La Grande CDP,371,11.053722866845085,1.0
+Thurston,Lacey UGA,373,2.029888810998319,
+Snohomish,Lake Bosworth CDP,375,10.56402757214631,1.0
+Snohomish,Lake Cassidy CDP,376,7.901058630963213,
+Skagit,Lake Cavanaugh CDP,377,1.9966704818319652,1.0
+Snohomish,Lake Goodwin CDP,380,4.480866913999256,1.0
+King,Lake Holm CDP,381,20.558124158233767,2.0
+Snohomish,Lake Ketchum CDP,382,8.064337752626997,1.0
+Skagit,Lake McMurray CDP,384,4.139262902560576,1.0
+King,Lake Morton-Berrydale CDP,385,10.234510453187024,1.0
+Snohomish,Lake Roesiger CDP,386,10.13187037772272,
+Stevens,Lake Spokane UGA,388,0.17060109998685383,
+Pierce,Lake Tapps CDP,392,3.8758405801135503,
+King,Lakeland South CDP,394,0.3497987513606766,
+Grant,Lakeview CDP,395,2.502645031337912,2.0
+Pierce,Lakewood,396,0.9920005179420173,1.0
+Pierce,Lakewood UGA,397,0.26524489402052853,
+Island,Langley UGA,400,4.747859118416719,
+Ferry,Laurier CDP,404,0.16336117505701336,1.0
+Pacific,Lebam CDP,405,3.7810072737266074,2.0
+Chelan,Levenworth UGA,406,1.9909224631866107,
+Spokane,Liberty Lake UGA,410,1.1154286478634152,
+Snohomish,Lochsloy CDP,412,17.570693413067147,2.0
+Kitsap,Lofall CDP,413,1.8072130580677954,
+Pacific,Long Beach UGA,415,0.6122206800358875,
+Pierce,Longbranch CDP,416,51.27151784639574,2.0
+Okanogan,Loomis CDP,420,2.275573502746581,1.0
+Stevens,Loon Lake CDP,421,8.20110173343743,1.0
+San Juan,Lopez UGA,422,0.7681785618490812,
+Wahkiakum,Lower Elochoman CDP,423,3.424003148407331,2.0
+Klickitat,Lyle CDP,424,1.8279676287568962,1.0
+Whatcom,Lynden UGA,427,2.86500842505482,
+Yakima,Mabton UGA,430,1.946775735187533,
+Snohomish,Machias CDP,431,3.2795917644906782,
+Ferry,Malo CDP,433,0.30540759206162144,1.0
+Grays Harbor,Malone CDP,434,23.41265279653883,1.0
+Okanogan,Malott CDP,435,4.515941888161465,
+Snohomish,Maltby CDP,436,1.0590261043099858,
+Douglas,Mansfield UGA,439,1.093646868738905,
+Chelan,Manson CDP,440,3.2458566117439314,1.0
+Chelan,Manson UGA,441,2.418989866580373,
+Whatcom,Maple Falls CDP,442,5.549470594258112,1.0
+King,Maple Heights-Lake Desire CDP,443,0.6530417949625811,
+Pierce,Maplewood CDP,445,10.531147941247452,
+Skagit,Marblemount CDP,446,9.547936763902083,1.0
+Stevens,Marcus,447,0.5814490200429677,2.0
+Stevens,Marcus UGA,448,0.9339061637314059,
+Whatcom,Marietta-Alderwood CDP,449,3.4383941291760234,
+Grant,Marine View CDP,450,2.3250563513944797,1.0
+Grays Harbor,Markham CDP,451,2.876347221595053,2.0
+Jefferson,Marrowstone CDP,452,15.61162040461742,2.0
+Klickitat,Maryhill CDP,454,7.287661994626394,1.0
+Grant,Mattawa UGA,458,5.583480447521754,
+Snohomish,May Creek CDP,459,1.644985984466733,1.0
+Pierce,McChord AFB CDP,460,0.5143675408372523,
+Pierce,McKenna CDP,462,2.7969256456666036,1.0
+Spokane,Mead CDP,464,14.016101347473427,1.0
+Spokane,Medical Lake UGA,468,1.4958040434259565,
+Franklin,Mesa UGA,473,1.729999497696438,
+Pend Oreille,Metaline Falls UGA,476,0.5831449821370394,
+Okanogan,Methow CDP,477,1.3879879682798437,
+Spokane,Millwood,482,1.7869096375905946,1.0
+Lewis,Mineral CDP,485,1.7222330101139793,1.0
+King,Mirrormont CDP,487,26.99764073269193,2.0
+Grays Harbor,Moclips CDP,488,4.230850481538982,1.0
+Snohomish,Monroe North CDP,490,1.4313801050313795,1.0
+Lewis,Morton UGA,495,3.4451892605969405,
+Grant,Moses Lake North CDP,497,13.701803868423433,
+Grant,Moses Lake UGA,498,30.313497098154485,
+Lewis,Mossyrock UGA,500,0.3075194099350248,
+Yakima,Moxee UGA,506,3.442049151896797,
+Yakima,Naches UGA,510,0.857402895393074,
+Lewis,Napavine UGA,512,0.38684367283979987,
+Pacific,Naselle CDP,513,5.497559082945004,1.0
+Clallam,Neah Bay CDP,515,4.536658298529827,
+Grays Harbor,Neilton CDP,516,24.50065498652086,
+Okanogan,Nespelem Community CDP,518,60.977730709451805,
+King,Newcastle,519,11.478954275540111,2.0
+Pend Oreille,Newport UGA,521,1.998675428865534,
+Yakima,Nile CDP,522,2.1545676759992527,1.0
+Thurston,Nisqually Indian Community CDP,523,7.453067265297314,
+Okanogan,North Omak CDP,532,29.02900697173902,1.0
+Pierce,North Puyallup CDP,533,0.41445202039927365,
+Snohomish,North Sultan CDP,534,0.6409008877420174,
+Snohomish,Northwest Stanwood CDP,537,0.9725368509917812,
+Island,Oak Harbor UGA,538,4.917683480233819,
+Grays Harbor,Ocean City CDP,541,8.354689512154525,
+Grays Harbor,Ocosta CDP,545,7.557144190049748,1.0
+Thurston,Olympia UGA,549,0.7566539384690092,
+Lewis,Onalaska CDP,552,4.139527909803454,1.0
+Ferry,Orient CDP,554,1.0603069979195914,1.0
+Snohomish,Oso CDP,557,6.661232164173395,2.0
+Spokane,Otis Orchards-East Farms CDP,558,9.157248549608138,1.0
+Yakima,Outlook CDP,559,0.33573615077855046,1.0
+Grays Harbor,Oyehut CDP,560,1.329295826801256,1.0
+Grays Harbor,Pacific Beach CDP,562,2.8021380883453455,1.0
+Lewis,Packwood CDP,564,2.5733149126067874,1.0
+Douglas,Pangborn Industrial Service Boundary,566,6.414877326022697,
+Yakima,Parker CDP,567,0.3064924592985853,1.0
+Franklin,Pasco,570,0.48019923896964656,
+Franklin,Pasco UGA,571,10.847434607002233,
+Whatcom,Peaceful Valley CDP,576,4.4346975860462425,2.0
+Chelan,Peshastin UGA,577,2.416756002136847,
+Ferry,Pine Grove CDP,580,1.269983467377242,1.0
+Whatcom,Point Roberts CDP,581,12.618895209070638,1.0
+Garfield,Pomeroy UGA,583,13.657249426584306,
+Clallam,Port Angeles East CDP,585,2.8067460338509527,
+Clallam,Port Angeles UGA,586,0.3442523463829028,
+Kitsap,Port Gamble Tribal Community CDP,587,10.858447388439076,1.0
+Jefferson,Port Hadlock-Irondale CDP,588,13.14204983672783,1.0
+Jefferson,Port Ludlow CDP,589,28.093739190087962,1.0
+Kitsap,Port Orchard UGA,591,0.2772246262561294,
+Grays Harbor,Porter CDP,593,22.965595694629055,1.0
+Kitsap,Poulsbo UGA,595,0.2602538358130586,
+Pierce,Prairie Heights CDP,596,0.37382617246756666,
+Pierce,Prairie Ridge CDP,597,3.1980538398925686,
+Walla Walla,Prescott UGA,599,0.3674602459935895,
+Benton,Prosser UGA,601,6.587461708590464,
+Wahkiakum,Puget Island CDP,602,18.223309082749353,
+Pierce,Purdy CDP,604,0.6800858641137237,
+Pierce,Puyallup UGA,606,0.48037630954634736,
+Grays Harbor,Queets CDP,607,3.542565826686934,1.0
+Grays Harbor,Qui-nai-elt Village CDP,608,1.902305218671874,1.0
+Jefferson,Quilcene CDP,609,21.587906119855944,
+Grant,Quincy UGA,611,3.8725230647232975,
+Pierce,Raft Island CDP,612,0.7188828403262567,
+Thurston,Ranier UGA,614,1.259021486490946,
+King,Ravensdale CDP,615,3.279125261674554,1.0
+Pacific,Raymond UGA,617,1.5586577084858169,
+Benton,Richland UGA,626,4.517404641063867,
+Clark,Ridgefield UGA,627,1.2669417305724995,
+King,Riverbend CDP,631,7.745448717415285,2.0
+King,Riverpoint CDP,632,3.3138401392257997,1.0
+San Juan,Roche Harbor CDP,634,10.38995531666044,1.0
+Thurston,Rochester CDP,635,21.245653809259565,
+Douglas,Rock Island UGA,637,0.5789916183577474,
+Spokane,Rockford UGA,639,0.5721278744784533,
+Skagit,Rockport CDP,640,0.9773613437950112,1.0
+Kittitas,Ronald CDP,642,2.186239447576316,
+Klickitat,Roosevelt CDP,643,9.80862007554284,1.0
+Wahkiakum,Rosburg CDP,645,59.01714297809132,3.0
+Pierce,Rosedale CDP,646,0.7820042013438258,
+Kittitas,Roslyn,647,10.834980808768298,2.0
+Pierce,Roy UGA,650,0.2884495925774774,
+Grant,Royal City UGA,652,7.745008815128398,
+Pierce,Ruston,653,0.6724991354380893,2.0
+Cowlitz,Ryderwood CDP,654,0.4159336381467171,1.0
+Grays Harbor,Santiago CDP,658,3.9268186045755034,1.0
+Grays Harbor,Satsop CDP,659,17.246433831191858,
+Grant,Schwana CDP,660,0.6405335151689743,1.0
+Kitsap,Seabeck CDP,661,8.421613231706955,1.0
+Pacific,Seaview UGA,665,1.0777012472351204,
+Skagit,Sedro-Woolley UGA,666,1.5682643518190793,
+Yakima,Selah UGA,669,3.416947372086251,
+Clallam,Sequim UGA,671,1.6287380023245748,
+King,Shadow Lake CDP,672,0.3411531575790345,
+Mason,Shelton UGA,674,14.862702820497717,
+Snohomish,Silvana CDP,676,3.5890202698945757,1.0
+Kitsap,Silverdale CDP,678,3.7434504252814698,
+Kitsap,Silverdale UGA,679,2.1092488574306842,
+Snohomish,Sisco Heights CDP,680,27.664127744501357,1.0
+Wahkiakum,Skamokawa Valley CDP,681,73.22414262762378,
+Mason,Skokomish CDP,682,16.08663861117914,1.0
+Snohomish,Snohomish UGA,686,1.04751291997961,
+Kittitas,Snoqualmie Pass CDP,688,7.570644384394779,2.0
+King,Snoqualmie UGA,689,0.35362322975881755,
+Grant,Soap Lake UGA,691,0.44967175950219423,
+Pacific,South Bend UGA,693,1.1856898177975665,
+Kittitas,South Cle Elum,694,1.014055893293372,2.0
+Kittitas,South Cle Elum UGA,695,1.3899828418709916,
+Pierce,South Creek CDP,696,19.89068256253894,1.0
+Pierce,South Hill CDP,697,2.5182813473512127,
+Kitsap,South Kitsap UGA,698,0.6544896426415526,
+Chelan,South Wenatchee CDP,700,1.3783436213311386,
+Kitsap,Southworth CDP,701,1.8400940761573308,
+Pierce,Spanaway CDP,702,1.4583959850520216,
+Spokane,Spangle UGA,704,0.6063756938246325,
+Spokane,Spokane UGA,706,50.52536913787795,
+Spokane,Spokane Valley UGA,708,14.335691826185197,
+Pierce,Stansberry Lake CDP,712,5.447275592748725,1.0
+Snohomish,Stanwood,714,0.0002828696318921686,
+Snohomish,Stanwood,714,0.0468438128004487,
+Snohomish,Stanwood UGA,715,0.5463256907563987,
+Snohomish,Startup CDP,718,9.65781787757049,
+Whitman,Steptoe CDP,720,5.768149765544346,1.0
+Whatcom,Sudden Valley CDP,723,4.732232732177368,
+Pierce,Summit CDP,728,0.2502612635129182,
+Pierce,Summit View CDP,729,1.2683530187483836,
+Yakima,Summitview CDP,730,4.4731941252716565,1.0
+Stevens,Suncrest CDP,733,25.86303939755847,1.0
+Snohomish,Sunday Lake CDP,734,8.673425656601312,1.0
+Grant,Sunland Estates CDP,735,1.0434271938826185,1.0
+Yakima,Sunnyside UGA,736,8.419987265658834,
+Chelan,Sunnyslope CDP,737,20.684057754852724,1.0
+Kitsap,Suquamish CDP,738,4.108757274748575,
+Snohomish,Swede Heaven CDP,739,17.614776500793692,2.0
+Skagit,Swinomish UGA,740,2.291939719356755,
+Grays Harbor,Taholah CDP,743,8.861050295777252,
+Yakima,Tampico CDP,744,10.707314167983569,1.0
+Pierce,Tehaleh CDP,746,3.4863423340560757,
+Yakima,Terrace Heights CDP,750,8.854529759813342,
+Kittitas,Thorp CDP,751,3.161441627542666,1.0
+Snohomish,Three Lakes CDP,752,31.226273674747556,2.0
+Yakima,Tieton UGA,754,1.6960052961735685,
+Pacific,Tokeland CDP,755,0.8210847187899105,
+Lewis,Toledo,756,0.739612370885416,
+Lewis,Toledo UGA,757,0.29028503001764616,
+Yakima,Toppenish UGA,760,2.894791804083999,
+Ferry,Torboy CDP,761,2.4746244433202795,1.0
+Walla Walla,Touchet CDP,762,2.856374231617899,1.0
+Spokane,Town and Country CDP,763,3.0050583892722855,1.0
+Klickitat,Trout Lake CDP,765,17.972314581644046,2.0
+Thurston,Tumwater,768,0.25475593716847555,
+Thurston,Tumwater UGA,769,5.3482866175691095,
+Ferry,Twin Lakes CDP,770,10.728910932560774,1.0
+Mason,Union CDP,772,4.108792587452116,1.0
+Yakima,Union Gap UGA,774,2.9195183887817406,
+King,Union Hill-Novelty Hill CDP,775,22.602102606843964,
+Wahkiakum,Upper Elochoman CDP,778,3.6951358898705604,2.0
+Lewis,Vader UGA,779,1.4777575988447824,
+Stevens,Valley CDP,780,0.8634621981457653,
+Stevens,Valley UGA,781,0.13728185916562005,
+Clark,Vancouver UGA,782,11.68709331413947,
+Kittitas,Vantage CDP,783,0.850527645176524,1.0
+King,Vashon CDP,784,89.5567957961503,22.0
+Pierce,Vaughn CDP,785,5.93448899581288,1.0
+Clark,Venersborg CDP,786,21.764514799357492,
+Snohomish,Verlot CDP,787,27.957323904597626,2.0
+Walla Walla,Waitsburg UGA,789,0.42914994783569926,
+Walla Walla,Walla Walla East CDP,791,3.865452682899043,
+Walla Walla,Walla Walla UGA,792,12.405141564176654,
+Yakima,Wapato UGA,796,1.6034812322389551,
+Grant,Warden UGA,798,5.548177125192136,
+Snohomish,Warm Beach CDP,799,5.635563825793767,
+Clark,Washougal UGA,801,3.3186554605154295,
+Douglas,Waterville UGA,804,0.8912639451828746,
+Chelan,Wenatchee UGA,808,1.1642375809086691,
+Asotin,West Clarkston-Highland CDP,809,1.5490081484386629,
+Benton,West Richland UGA,811,0.43033950560256196,
+Grant,Wheeler CDP,813,0.5720317717997145,1.0
+Island,Whidbey Island Station CDP,814,15.679726368078436,
+Yakima,White Swan CDP,817,6.657669047123738,1.0
+King,Wilderness Rim CDP,819,1.6310992657871681,
+Pacific,Willapa CDP,821,0.7175775969428073,1.0
+Klickitat,Wishram CDP,826,3.7906488923329187,1.0
+Pierce,Wollochet CDP,827,0.5722278841765807,
+Clark,Woodland UGA,830,1.1283657870639947,
+Snohomish,Woods Creek CDP,831,35.734851286409764,1.0
+Yakima,Yakima UGA,836,1.9580183199562358,
+King,Yarrow Point,837,0.9101948053187456,2.0
+Thurston,Yelm UGA,840,0.28485300811406855,
+Yakima,Zillah UGA,842,2.7551888742740323,

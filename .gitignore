@@ -12,3 +12,4 @@ venv/
 *.mo
 *.swp
 .venv/
+.env
