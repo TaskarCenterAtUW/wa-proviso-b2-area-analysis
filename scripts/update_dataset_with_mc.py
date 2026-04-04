@@ -6,6 +6,7 @@ import time
 import csv
 from tqdm import tqdm
 
+
 def login_to_tdei_system():
     tdei_username = os.environ.get('TDEI_USERNAME')
     tdei_password = os.environ.get('TDEI_PASSWORD')
@@ -219,11 +220,13 @@ def parse_csv(file_path:str):
 if __name__ == '__main__':
     tdei_access_token = login_to_tdei_system()
     mc_access_token = login_to_mc_system()
-    main(tdei_access_token, mc_access_token)
-    # parsed_rows = parse_csv('input.csv')
-    # for row in tqdm(parsed_rows, desc='Updating datasets'):
-    #     tdei_dataset_id = row[0].strip()
-    #     mc_project_id = row[1].strip()
-    #     print(f'Updating dataset {tdei_dataset_id} with project id {mc_project_id}')
-    #     update_dataset_with_mc(tdei_dataset_id, mc_project_id, tdei_access_token, mc_access_token)
+    # main(tdei_access_token, mc_access_token)
+    parsed_rows = parse_csv('input.csv')
+    for row in tqdm(parsed_rows, desc='Updating datasets'):
+        tdei_dataset_id = row[1].strip()
+        mc_project_id = row[0].strip()
+        print(f'Updating dataset {tdei_dataset_id} with project id {mc_project_id}')
+        update_dataset_with_mc(tdei_dataset_id, mc_project_id, tdei_access_token, mc_access_token,hxgn_fix=True)
+        time.sleep(2)
+        
 
