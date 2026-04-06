@@ -79,13 +79,20 @@ def get_project_jobs(mc_token, project_id):
     return response.json()
 
 def wait_for_job(mc_token, project_id, job_id):
+    current_task = None
+    state = None
+    print(f'Waiting for job {job_id} to finish')
     while True:
-        print(f'Waiting for job {job_id} to finish')
         jobs = get_project_jobs(mc_token, project_id)
         job = [job for job in jobs['data'] if job['jobId'] == job_id][0]
-        current_task = job['currentTask']
-        state = job['state']
-        print(f'Current task: {current_task}, State: {state}')
+        new_current_task = job['currentTask']
+        new_state = job['state']
+        if new_current_task != current_task or new_state != state:
+            current_task = new_current_task
+            state = new_state
+            print(f'Current task: {current_task}, State: {state}')
+        else:
+            print(f".", end="",flush=True)
         if job['state'] == 'finished' and current_task == 'post-processing':
             return job
         time.sleep(30)
