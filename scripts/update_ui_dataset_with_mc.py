@@ -114,7 +114,6 @@ def update_dataset_with_mc(tdei_dataset_id, mc_project_id, tdei_access_token, mc
     print(metadata['dataset_detail']['version'])
     new_tdei_version = get_new_version(metadata['dataset_detail']['version'])
     new_metadata = get_new_metadata(county_name)
-    print(new_metadata['dataset_detail']['version'])
     new_metadata['dataset_detail']['version'] = new_tdei_version
     new_boundary_geojson = new_metadata['dataset_detail']['dataset_area']
     new_boundary = new_boundary_geojson['features'][0]
@@ -124,8 +123,6 @@ def update_dataset_with_mc(tdei_dataset_id, mc_project_id, tdei_access_token, mc
     new_boundary['properties']['id'] = mc_project_id
     new_boundary['properties']['tdei_service_id'] = service_id
     new_boundary['properties']['tdei_pg_id'] = pg_id
-    print(f' New boundary {new_boundary}')
-    return
     upload_request_response = add_mc_project_upload_request(new_metadata, new_boundary, tdei_access_token, mc_access_token, mc_project_id)
     if upload_request_response.status_code == 200:
         print('Upload request added successfully')
