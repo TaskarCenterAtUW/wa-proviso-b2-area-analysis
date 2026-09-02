@@ -1,0 +1,39 @@
+,name,project_id_str,tdei_dataset_id
+12,GS Adams County,684862347fe063e3230cab9a,f20a6a81-765d-4013-ae7a-f137cbf66545
+6,GS Asotin County,6848071f7fe063e3230cab6b,ebe35067-497d-4c16-9098-991844a643a6
+18,GS Clallam County,684909387fe063e3230cabbb,dada57c4-8a0d-4f41-bdc2-02d4b217949b
+22,GS Clark County,684909617fe063e3230cabbd,f2e98f7d-b301-4abd-a8fb-7835f82d9877
+28,GS Columbia County,6849098b7fe063e3230cabbf,fef536df-b9ab-4fb0-a1cf-49b7e68328f2
+34,GS Cowlitz County,684909ac7fe063e3230cabc1,2230769d-2f40-4ff2-a02d-cff085c0421d
+40,GS Douglas County,68490b457fe063e3230cabc3,fc3ddb9e-6d94-433d-84e7-73c81422bc9d
+46,GS Ferry County,68490bc87fe063e3230cabc5,1f160cd8-9631-411d-88dd-61e3cc47a6f8
+51,GS Franklin County,68490c0c7fe063e3230cabc7,9d109dbc-d43d-4c89-94c1-64628130bb44
+57,GS Garfield County,68490c307fe063e3230cabc9,b9b5d623-a5b3-4857-9c16-c91c950a5e8c
+61,GS Grant County,68490c827fe063e3230cabcb,710cced2-ed3f-4269-87c3-e2fcb27b8b26
+66,GS Grays Harbor County,68490ce57fe063e3230cabcd,6ca273b6-2191-4ee3-b86b-834deb35ecab
+72,GS Island County,68490d1c7fe063e3230cabcf,74d2bf3b-7335-4001-8ed9-4c43fb7aae2a
+79,GS Jefferson County,68490dac7fe063e3230cabd1,b46ae9f4-c530-4c9e-abf9-410ee9cd833c
+186,GS King County,684940a9e96d68d91380e4e8,d94b1cc9-483b-4102-9bd2-6186e0f7b516
+203,GS King County UGA,6979c137189e5a5965185862,2119819b-eb14-41ca-9446-07737e0e7de1
+185,GS Kitsap County,6849407ae96d68d91380e4e6,9ee72052-dd07-446f-8729-bf9c187899dc
+85,GS Kittitas County,68490f1f7fe063e3230cabd8,4775032f-3122-4585-a09a-99d885c0dfe8
+91,GS Klickitat County,684910107fe063e3230cabda,b658f2a6-1ceb-4932-8eaf-2592bdcea77a
+97,GS Lewis County,6849103b7fe063e3230cabdc,d1efced4-0e87-462c-a079-04c71cb71ccc
+103,GS Lincoln County,684910677fe063e3230cabde,2d094219-40bc-40cd-8909-3870e6417aac
+109,GS Mason County,684910807fe063e3230cabe0,62ce88ae-66bb-417d-974b-fc9c5e8be8e2
+115,GS Okanogan County,6849109f7fe063e3230cabe2,d6dc632c-91ac-4e2b-849f-f02702eb3e99
+121,GS Pacific County,684910c17fe063e3230cabe4,cf94f635-3cff-4d48-a282-77dd8e070707
+127,GS Pend Oreille County,684910e17fe063e3230cabe6,5122893b-490e-4343-9c21-200a28202ed2
+193,GS Pierce County,684940e5e96d68d91380e4ea,53fda78c-861d-4f3d-8e9e-1713e9ab8f7f
+133,GS San Juan County,6849114d7fe063e3230cabe9,5376a4dc-e7a0-4d52-8cd6-7183a4386485
+137,GS Skagit County,684911737fe063e3230cabeb,853666f5-de5a-4f9b-8e09-d372c58ebdcc
+143,GS Skamania County,6849118e7fe063e3230cabed,eb14d5f3-d314-47d8-a747-9b47225f29b2
+197,GS Snohomish County,684942aee96d68d91380e4ec,8431e758-ea57-4699-8333-fec9bfd32e87
+147,GS Spokane County,684911dc7fe063e3230cabf0,560bc986-21e2-4210-b6ce-c0ca768a1b72
+150,GS Stevens County,684911f67fe063e3230cabf2,9aadcfe4-4e46-45df-96f8-f51f704043f4
+201,GS Thurston County,684942d2e96d68d91380e4ee,16a388db-2107-4a33-a77a-95ad82c4b1dd
+161,GS Wahkiakum County,6849123c7fe063e3230cabf5,8d617614-3aac-46d7-9753-faf4ed2cb116
+166,GS Walla Walla County,684912557fe063e3230cabf7,f1f3f63f-0c2e-419d-934a-c1fe32630456
+170,GS Whatcom County,6849126f7fe063e3230cabf9,f67afe40-5add-46bf-aac6-8e409fe01c17
+176,GS Whitman County,684912907fe063e3230cabfb,1d68019a-88bf-47cc-8b97-eb854cd5a3c7
+180,GS Yakima County,684912a87fe063e3230cabfd,68670929-51a6-4efe-b35a-82012c69a5c4
